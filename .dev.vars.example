@@ -1,0 +1,10 @@
+APP_ENV=production
+SECRET_KEY=replace-with-a-long-random-value
+ADMIN_USERNAME=replace-with-owner-name
+ADMIN_PASSWORD=replace-with-a-long-unique-password
+ADMIN_EMAIL=admin@example.com
+ADMIN_RESET_PASSWORD=false
+RESEND_API_KEY=
+RESEND_FROM=RSG Software <onboarding@resend.dev>
+SEABEE_DOWNLOAD_URL=
+RSG_DEV_UNLOCK=false
