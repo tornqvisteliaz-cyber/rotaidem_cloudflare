@@ -13,7 +13,7 @@ run_worker_first = true
 [[d1_databases]]
 binding = "DB"
 database_name = "rotaidem"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "30d54080-2596-48f8-9353-4cb2715fc9a8"
 
 [[r2_buckets]]
 binding = "UPLOADS"
